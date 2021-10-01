@@ -1,6 +1,4 @@
 # Simple-Chat-Room
-Simple chat room using python and gui , also tried to implement encryption decryption
-# client-server-chat-window
 
 ### This's a Chat Application developed using *Socket programming* & *Tinkter* in python.
 \
